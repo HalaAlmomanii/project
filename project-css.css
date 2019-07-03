@@ -67,12 +67,16 @@ background-color:green;}
 .ul5{grid-column:5;grid-row:2;}
 
 .lan{display: grid;
-	grid-template-columns:10% 70%;
-	grid-auto-rows:29px 29px auto;
+	grid-template-columns:15% 70%;
+	grid-auto-rows:35px 29px 50%;
 	grid-column:2;
 background-color:purple;}
 .lan1{grid-row:2;}
 .lan2{grid-row:2; grid-column:2; }
+.proe{grid-row:3;grid-column:1;
+}
+.pro{grid-row:3;grid-column:2;
+}
 
 .us{background-color: lightgreen;
 	display: grid;
